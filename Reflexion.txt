@@ -1,0 +1,11 @@
+1. ¿Tuviste que poner Cliente, Producto y Pedido en el mismo paquete? ¿Por qué sí o por qué no?
+no es obligatorio pero es conveniente ya que con esto se facilita el acceso a los paquetes 
+
+2. ¿Qué problema aparecería si intentaras separar Producto en un paquete aparte cuando Pedido lo
+tiene anidado?
+si se tendría que implementar, por que puede afectar a los pedidos
+
+3. Comparando con el Día A (donde usamos IDs): ¿qué ventaja tiene el modelo con IDs para
+organizar el código en paquetes?
+
+las id nos permiten optimizar los procesos, estos no manejan objetos si no que manejas referencias que permite al sistema un mejor manejo 
